@@ -13,7 +13,7 @@ Where architectures given is:
 - armv7l-eabihf
 
 ### Examples:
-Install the ARM64 linux binary for git. (maybe if it exists?)
+Install the ARM64 linux binary for git.
 ```
 ./bhamu git armv8-aarch64
 ```

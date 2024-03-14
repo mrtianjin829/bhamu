@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+curl -fLk -o $1 "https://github.com/polaco1782/linux-static-binaries/raw/master/$2/$1"
+
+chmod 755 $1
